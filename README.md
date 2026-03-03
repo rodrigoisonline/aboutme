@@ -2,10 +2,10 @@
 👋 
 <div align="center" style="background-color:#0a0a0a; color:white; padding:40px; border-radius:15px;">
 
-  <h1 style="color:#00ffff;">DOORMAN SECURE</h1>
+  <h1 style="color:#00ffff;"> Pharmacy System Webhook </h1>
   <p style="font-size:1.2em;">
-    <strong>Medical-Grade Webhook Infrastructure</strong><br>
-    Secure. Auditable. Designed for clinical environments where failure is unacceptable.
+    <strong>  High Sofisticate Infrastructure</strong><br>
+    Secure. ISO27000 Auditable. Designed for clinical environments where failure is unacceptable.
   </p>
 
   <img src="https://img.shields.io/badge/STATUS-Production%20Grade-00ffff?style=for-the-badge" />
@@ -18,7 +18,7 @@
 
 <!-- About the Creator -->
 <div style="border:2px solid #00ffff; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#f0f8ff;">
-  <h2>🏥 About the Creator</h2>
+  <h2>About the Creator</h2>
   <table style="width:100%; border-collapse:collapse;">
     <tr><td><strong>Name:</strong></td><td>RODRIGO SPARRAPN</td></tr>
     <tr><td><strong>Age:</strong></td><td>~34</td></tr>
@@ -37,16 +37,16 @@
   <h2>🔐 Core Philosophy</h2>
   <blockquote style="font-size:1.1em;">Trust Nothing. Verify Everything. Log It All.</blockquote>
   <ul>
-    <li>🔒 Security is foundational — never an afterthought</li>
-    <li>🏥 Reliability suitable for clinical workflows</li>
-    <li>🛡 Zero-Trust architecture across all layers</li>
-    <li>📋 Complete audit visibility</li>
+    <li> Security is foundational — never an afterthought</li>
+    <li> Reliability suitable for clinical workflows</li>
+    <li> Zero-Trust architecture across all layers</li>
+    <li> Complete audit visibility</li>
   </ul>
 </div>
 
 <!-- Doorman Secure System -->
 <div style="border:2px solid #00aaaa; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#f0ffff;">
-  <h2>🚪 Doorman Secure System</h2>
+  <h2>System Doutrine </h2>
   <p>
     <strong>Purpose:</strong> Secure, auditable, real-time hospital integrations<br>
     <strong>Built for:</strong> High-stakes clinical environments
@@ -94,7 +94,7 @@
 <div style="border:2px solid #003333; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#b3f0f0;">
   <h2>💡 Why This Exists</h2>
   <ul>
-    <li>Modern webhook architecture for hospitals and clinics </li>
+    <li>Modern webhook architecture for pharmacy  </li>
      <li>🌐 Cloud hosting (fully managed)</li>
     <li>Real-time secure communication</li>
     <li>AI-ready clinical routing</li>
