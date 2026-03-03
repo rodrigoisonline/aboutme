@@ -20,9 +20,9 @@
 <div style="border:2px solid #00ffff; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#f0f8ff;">
   <h2>🏥 About the Creator</h2>
   <table style="width:100%; border-collapse:collapse;">
-    <tr><td><strong>Name:</strong></td><td>[Your Name]</td></tr>
-    <tr><td><strong>Age:</strong></td><td>43</td></tr>
-    <tr><td><strong>Location:</strong></td><td>[Your Location]</td></tr>
+    <tr><td><strong>Name:</strong></td><td>RODRIGO SPARRAPN</td></tr>
+    <tr><td><strong>Age:</strong></td><td>~34</td></tr>
+    <tr><td><strong>Location:</strong></td><td>LOS ANGELES</td></tr>
     <tr><td><strong>Background:</strong></td><td>Full-Stack Security Engineer & Healthcare Systems Architect</td></tr>
   </table>
 
@@ -94,7 +94,7 @@
 <div style="border:2px solid #003333; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#b3f0f0;">
   <h2>💡 Why This Exists</h2>
   <ul>
-    <li>Modern webhook architecture for hospitals</li>
+    <li>Modern webhook architecture for hospitals and clinics </li>
     <li>Real-time secure communication</li>
     <li>AI-ready clinical routing</li>
     <li>Transparent audit mechanisms</li>
@@ -117,9 +117,10 @@
 <div align="center" style="background-color:#0a0a0a; color:white; padding:30px; border-radius:15px;">
   <h2>📫 Contact</h2>
   <p>
-    <strong>GitHub:</strong> [your-username]<br>
-    <strong>LinkedIn:</strong> [your-profile]<br>
-    <strong>Email:</strong> [your-email]
+    <strong>GitHub:</strong> rodrigoisonline <br>
+    <strong>GitHub:</strong> FexEig <br>
+    <strong>LinkedIn:</strong> -<br>
+    <strong>Email:</strong> rodrigoisonline@gail.com
   </p>
   <hr width="50%" style="border-color:#00ffff;">
   <p><strong>Secure by Default. Built for Clinical Trust.</strong></p>
