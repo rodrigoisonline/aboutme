@@ -1,5 +1,5 @@
 <!-- DOORMAN SECURE - Professional Investor/GitHub Layout -->
-
+👋 
 <div align="center" style="background-color:#0a0a0a; color:white; padding:40px; border-radius:15px;">
 
   <h1 style="color:#00ffff;">DOORMAN SECURE</h1>
@@ -95,6 +95,7 @@
   <h2>💡 Why This Exists</h2>
   <ul>
     <li>Modern webhook architecture for hospitals and clinics </li>
+     <li>🌐 Cloud hosting (fully managed)</li>
     <li>Real-time secure communication</li>
     <li>AI-ready clinical routing</li>
     <li>Transparent audit mechanisms</li>
@@ -117,11 +118,11 @@
 <div align="center" style="background-color:#0a0a0a; color:white; padding:30px; border-radius:15px;">
   <h2>📫 Contact</h2>
   <p>
-    <strong>GitHub:</strong> rodrigoisonline <br>
+    <strong>GitHub:🐙 </strong> rodrigoisonline <br>
     <strong>GitHub:</strong> FexEig <br>
     <strong>LinkedIn:</strong> -<br>
-    <strong>Email:</strong> rodrigoisonline@gail.com
+    <strong>Email:</strong> rodrigoisonline@gmail.com
   </p>
   <hr width="50%" style="border-color:#00ffff;">
-  <p><strong>Secure by Default. Built for Clinical Trust.</strong></p>
+  <p><strong>Secure by Default. Built for Clinical Trust.</strong></p> 
 </div>
