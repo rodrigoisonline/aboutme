@@ -104,11 +104,11 @@
 
 <!-- Open Source With Boundaries -->
 <div style="border:2px solid #001111; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#99eeee;">
-  <h2>🌍 Open Source — With Boundaries</h2>
+  <h2>🌍 This is not a Sponsored Open Source </h2>
   <ul>
     <li>Security through visibility</li>
-    <li>No vendor lock-in</li>
-    <li>Community collaboration</li>
+    <li>vendor lock-in</li>
+    <li>No Online Community collaboration</li>
   </ul>
   <p><strong>Core production deployments and sensitive components remain private by design.</strong></p>
 </div>
