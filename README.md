@@ -133,31 +133,51 @@
 
 
 
-
-<!-- FILE: doorman_secure_pulse.html -->
+<!-- PULSING HEADER LINE -->
 <div class="box">
-    <div class="box-header" id="pulseHeader">
-         </div>
-    <div class="box-content">
-            </div>
+  <div class="box-header" id="pulseHeader">
+    <h3>🔐 Core Philosophy</h3>
+  </div>
+  <div class="box-content">
+    <p>"Trust Nothing. Verify Everything. Log It All."</p>
+  </div>
 </div>
 
 <style>
-    .box { background-color: #0f11130; border-radius:1px; padding:200px; margin-bottom:20px; border:2px solid #00cccc0;}
-    
-  .box-header { padding-bottom:10px; border-bottom:2px solid; transition: border-color 0.1s linear; }
-   
-  .box-header h3 { color: #00ffff; margin:0; }
+.box {
+    background-color: #0f1113;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #00cccc; /* base border */
+    overflow: hidden;
+}
+
+/* Box header top line */
+.box-header {
+    padding-bottom: 10px;
+    border-top: 4px solid; /* this is the shining line */
+    border-color: #00ffff; /* default color */
+    transition: border-color 0.1s linear;
+}
+
+/* Header text */
+.box-header h3 {
+    color: #00ffff;
+    margin: 0;
+    transition: color 0.1s linear;
+}
 </style>
+
 <script>
-    const header = document.getElementById('pulseHeader');
-    let hue = 0;
-    function pulse() {
-        hue = (hue + 0.5) % 360; // small increment for smoothness
-        const color = `hsl(${hue}, 100%, 50%)`; // vibrant rainbow
-        header.style.borderColor = color;
-        header.style.color = color; // optional: text pulsing
-        requestAnimationFrame(pulse); // smooth continuous animation
-    }
-    pulse();
+const header = document.getElementById('pulseHeader');
+let hue = 0;
+function pulse() {
+    hue = (hue + 0.5) % 360; // slow smooth rotation
+    const color = `hsl(${hue}, 100%, 50%)`;
+    header.style.borderTopColor = color;  // only top line
+    header.style.color = color;           // optional text sync
+    requestAnimationFrame(pulse);
+}
+pulse();
 </script>
