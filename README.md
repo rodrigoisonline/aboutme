@@ -116,9 +116,9 @@
 
 <!-- Contact / Final -->
 <div align="center" style="background-color:#0a0a0a; color:white; padding:30px; border-radius:15px;">
-  <h2>📫 Contact</h2>
+  <h2>🐙 Contact</h2>
   <p>
-    <strong>GitHub:🐙 </strong> rodrigoisonline <br>
+    <strong>GitHub:</strong> rodrigoisonline <br>
     <strong>GitHub:</strong> FexEig <br>
     <strong>LinkedIn:</strong> -<br>
     <strong>Email:</strong> rodrigoisonline@gmail.com
