@@ -129,23 +129,3 @@
 
 
 
-
-<!-- GitHub-safe "shining line" -->
-<div>
-  <svg width="100%" height="6">
-    <defs>
-      <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000">
-          <animate attributeName="stop-color" values="#ff0000;#00ff00;#0000ff;#ff0000" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#0000ff">
-          <animate attributeName="stop-color" values="#0000ff;#ff0000;#00ff00;#0000ff" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="6" fill="url(#rainbowGradient)" />
-  </svg>
-
-  <h3>🔐 Core Philosophy</h3>
-  <p>"Trust Nothing. Verify Everything. Log It All."</p>
-</div>
