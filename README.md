@@ -23,7 +23,7 @@
     <tr><td><strong>Name:</strong></td><td>RODRIGO SPARRAPN</td></tr>
     <tr><td><strong>Age:</strong></td><td>~34</td></tr>
     <tr><td><strong>Location:</strong></td><td>LOS ANGELES</td></tr>
-    <tr><td><strong>Background:</strong></td><td>Full-Stack Security Engineer & Healthcare Systems Architect</td></tr>
+    <tr><td><strong>Background:</strong></td><td>Full-Stack Security Engineer & Healthcare Systems Architect with bank experience</td></tr>
   </table>
 
   <p>
