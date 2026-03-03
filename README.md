@@ -1,306 +1,126 @@
-<!--
-DOORMAN SECURE
-Healthcare Security Infrastructure
-Skeletal. Controlled. Institutional.
--->
+<!-- DOORMAN SECURE - Professional Investor/GitHub Layout -->
 
-<div align="center">
+<div align="center" style="background-color:#0a0a0a; color:white; padding:40px; border-radius:15px;">
 
-  <h1>DOORMAN SECURE</h1>
-
-  <p>
-    <strong>Clinical-grade security infrastructure.</strong><br>
-    Cryptographic trust. Audit certainty. Operational integrity.
+  <h1 style="color:#00ffff;">DOORMAN SECURE</h1>
+  <p style="font-size:1.2em;">
+    <strong>Medical-Grade Webhook Infrastructure</strong><br>
+    Secure. Auditable. Designed for clinical environments where failure is unacceptable.
   </p>
 
-  <br>
-
-  <img src="https://img.shields.io/badge/STATUS-Production%20Focused-0a0a0a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SECURITY-Doctrine%20Driven-1a1a1a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DOMAIN-Healthcare-202020?style=for-the-badge" />
-
-  <br><br>
-
-  <hr width="60%">
+  <img src="https://img.shields.io/badge/STATUS-Production%20Grade-00ffff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-Healthcare-00aaaa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-Zero%20Trust-009999?style=for-the-badge" />
 
 </div>
 
 <br>
 
-<h2>Doctrine</h2>
-
-<blockquote>
-  Assume nothing.<br>
-  Verify everything.<br>
-  Record all events.
-</blockquote>
-
-<p>
-Security is not a feature layer.<br>
-It is the foundation layer.
-</p>
-
-<br>
-
-<h2>Core Principles</h2>
-
-<ul>
-  <li>Deterministic verification</li>
-  <li>Cryptographic enforcement</li>
-  <li>Immutable traceability</li>
-  <li>Least-privilege architecture</li>
-</ul>
-
-<br>
-
-<h2>Operational Position</h2>
-
-<p>
-This repository presents structure.<br>
-Core implementation remains protected.
-</p>
-
-<br>
-
-<div align="center">
-
-  <hr width="60%">
+<!-- About the Creator -->
+<div style="border:2px solid #00ffff; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#f0f8ff;">
+  <h2>🏥 About the Creator</h2>
+  <table style="width:100%; border-collapse:collapse;">
+    <tr><td><strong>Name:</strong></td><td>[Your Name]</td></tr>
+    <tr><td><strong>Age:</strong></td><td>43</td></tr>
+    <tr><td><strong>Location:</strong></td><td>[Your Location]</td></tr>
+    <tr><td><strong>Background:</strong></td><td>Full-Stack Security Engineer & Healthcare Systems Architect</td></tr>
+  </table>
 
   <p>
-    <strong>Secure-by-default.</strong><br>
-    Production-oriented.<br>
-    Built for clinical reality.
+    I build infrastructure where trust is engineered — not assumed.  
+    Systems hospitals can rely on without hesitation.
   </p>
-
-
-  <!--
-DOORMAN SECURE
-Healthcare Security Infrastructure
-Structured. Controlled. Trusted.
--->
-
-<div align="center">
-
-  <h1>DOORMAN SECURE</h1>
-
-  <p>
-    <strong>Medical-grade webhook infrastructure for modern healthcare systems.</strong><br>
-    Secure. Auditable. Built for environments where failure is not acceptable.
-  </p>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/STATUS-Production%20Grade-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DOMAIN-Healthcare-1a1a1a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-Zero%20Trust-202020?style=for-the-badge" />
-
-  <br><br>
-
-  <hr width="65%">
-
 </div>
 
-<br>
-
-<h2>🏥 About the Creator</h2>
-
-<p>
-<strong>Name:</strong> [Your Name]<br>
-<strong>Age:</strong> 43 &nbsp; | &nbsp; <strong>Location:</strong> [Your Location]<br>
-<strong>Background:</strong> Full-Stack Security Engineer & Healthcare Systems Architect
-</p>
-
-<p>
-I design infrastructure for environments where trust must be engineered — not assumed.
-</p>
-
-<p>
-My focus is simple:
-<strong>build systems hospitals can rely on without hesitation.</strong>
-</p>
-
-<br>
-
-<h2>🔐 Core Philosophy</h2>
-
-<blockquote>
-  Trust Nothing. Verify Everything. Log It All.
-</blockquote>
-
-<ul>
-  <li>🔒 Security is foundational — never an afterthought</li>
-  <li>🏥 Reliability suitable for clinical workflows</li>
-  <li>🛡 Zero-Trust architecture across all layers</li>
-  <li>📋 Complete audit visibility</li>
-</ul>
-
-<p>
-In healthcare, mistakes cost more than money.  
-They cost trust. Sometimes they cost lives.
-</p>
-
-<br>
-
-<h2>🚪 The Doorman Secure System</h2>
-
-<p>
-<strong>What:</strong> Production-grade medical webhook router<br>
-<strong>Purpose:</strong> Secure, auditable, real-time hospital integrations<br>
-<strong>Built for:</strong> High-stakes clinical environments
-</p>
-
-<p>
-Doorman Secure sits between systems and ensures:
-</p>
-
-<ul>
-  <li>Authenticated message exchange</li>
-  <li>Encrypted data in transit and at rest</li>
-  <li>Replay-attack protection</li>
-  <li>Immutable audit logging</li>
-  <li>Strict role-based access control</li>
-</ul>
-
-<p>
-This is not a demo.  
-This is structured infrastructure.
-</p>
-
-<br>
-
-<h2>🛡 Security Foundation</h2>
-
-<p><strong>Every request. Every token. Every action. Verified.</strong></p>
-
-<ul>
-  <li>HMAC-SHA256 request signing</li>
-  <li>Short-lived JWT authentication</li>
-  <li>AES-256 encryption (data at rest)</li>
-  <li>TLS 1.3 (data in transit)</li>
-  <li>bcrypt password hashing</li>
-  <li>Row-Level Security enforcement</li>
-  <li>Immutable audit trail (365-day retention)</li>
-</ul>
-
-<p>
-No silent failures.  
-No unsigned traffic.  
-No optional encryption.
-</p>
-
-<br>
-
-<h2>📜 Compliance Position</h2>
-
-<ul>
-  <li>✅ HIPAA-aligned architecture</li>
-  <li>✅ GDPR-conscious data handling</li>
-  <li>✅ SOC 2 audit-ready structure</li>
-  <li>✅ Built-in patient data protection controls</li>
-</ul>
-
-<p>
-Compliance is built into the design — not retrofitted later.
-</p>
-
-<br>
-
-<h2>💡 Why This Exists</h2>
-
-<p>
-Many hospitals still rely on fragile integrations and legacy messaging layers.
-</p>
-
-<p>
-Doorman Secure replaces that risk surface with:
-</p>
-
-<ul>
-  <li>Modern webhook architecture</li>
-  <li>Real-time secure communication</li>
-  <li>AI-ready clinical routing</li>
-  <li>Transparent audit mechanisms</li>
-</ul>
-
-<p>
-Built right from the beginning.
-</p>
-
-<br>
-
-<h2>🌍 Open Source — With Boundaries</h2>
-
-<p>
-Transparency builds trust.
-</p>
-
-<ul>
-  <li>Security through visibility</li>
-  <li>No vendor lock-in</li>
-  <li>Community collaboration</li>
-</ul>
-
-<p>
-However:
-</p>
-
-<p>
-<strong>Core production deployments and sensitive architectural components remain private by design.</strong>
-</p>
-
-<p>
-Public repository = structure and doctrine.<br>
-Operational infrastructure = protected.
-</p>
-
-<br>
-
-<h2>🚀 2025 Direction</h2>
-
-<ul>
-  <li>Managed SaaS infrastructure launch</li>
-  <li>Expanded clinical integration tooling</li>
-  <li>Advanced compliance certification</li>
-  <li>First hospital-scale deployments</li>
-</ul>
-
-<br>
-
-<h2>👀 Who This Is For</h2>
-
-<ul>
-  <li>🏥 Hospital CIOs</li>
-  <li>🛡 Security & Compliance Officers</li>
-  <li>💼 Enterprise Healthcare IT Teams</li>
-  <li>🚀 Healthcare-focused investors</li>
-</ul>
-
-<p>
-This system is built as if all of them are reviewing it.
-</p>
-
-<br>
-
-<h2>📫 Contact</h2>
-
-<p>
-<strong>GitHub:</strong> [your-username]<br>
-<strong>LinkedIn:</strong> [your-profile]<br>
-<strong>Email:</strong> [your-email]
-</p>
-
-<br>
-
-<div align="center">
-
-  <hr width="65%">
-
-  <p>
-    <strong>Secure by default.</strong><br>
-    Designed for hospitals.<br>
-    Built for trust.
-  </p>
-
+<!-- Core Philosophy -->
+<div style="border:2px solid #009999; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#e6f7f7;">
+  <h2>🔐 Core Philosophy</h2>
+  <blockquote style="font-size:1.1em;">Trust Nothing. Verify Everything. Log It All.</blockquote>
+  <ul>
+    <li>🔒 Security is foundational — never an afterthought</li>
+    <li>🏥 Reliability suitable for clinical workflows</li>
+    <li>🛡 Zero-Trust architecture across all layers</li>
+    <li>📋 Complete audit visibility</li>
+  </ul>
 </div>
 
+<!-- Doorman Secure System -->
+<div style="border:2px solid #00aaaa; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#f0ffff;">
+  <h2>🚪 Doorman Secure System</h2>
+  <p>
+    <strong>Purpose:</strong> Secure, auditable, real-time hospital integrations<br>
+    <strong>Built for:</strong> High-stakes clinical environments
+  </p>
+
+  <table style="width:100%; border-collapse:collapse; text-align:left;">
+    <tr style="background-color:#00cccc; color:white;"><th>Feature</th><th>Description</th></tr>
+    <tr><td>Authenticated Message Exchange</td><td>Ensures only trusted systems communicate</td></tr>
+    <tr><td>Encrypted Data</td><td>AES-256 at rest, TLS 1.3 in transit</td></tr>
+    <tr><td>Replay-Attack Protection</td><td>Prevents fraudulent or repeated requests</td></tr>
+    <tr><td>Immutable Audit Logs</td><td>Every action recorded, 365-day retention</td></tr>
+    <tr><td>Role-Based Access</td><td>Fine-grained, zero-trust permissions</td></tr>
+  </table>
+</div>
+
+<!-- Security Foundation -->
+<div style="border:2px solid #007777; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#e0f7f7;">
+  <h2>🛡 Security Foundation</h2>
+  <p><strong>Every request. Every token. Every action. Verified.</strong></p>
+  <ul>
+    <li>HMAC-SHA256 request signing</li>
+    <li>Short-lived JWT authentication</li>
+    <li>AES-256 encryption (data at rest)</li>
+    <li>TLS 1.3 transport security</li>
+    <li>bcrypt password hashing</li>
+    <li>Row-Level Security enforcement</li>
+    <li>Immutable audit trail</li>
+  </ul>
+  <p>No silent failures. No unsigned traffic. No optional encryption.</p>
+</div>
+
+<!-- Compliance -->
+<div style="border:2px solid #005555; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#ccf0f0;">
+  <h2>📜 Compliance Position</h2>
+  <ul>
+    <li>✅ HIPAA-aligned architecture</li>
+    <li>✅ GDPR-conscious data handling</li>
+    <li>✅ SOC 2 audit-ready structure</li>
+    <li>✅ Built-in patient data protection</li>
+  </ul>
+  <p>Compliance is built-in, not retrofitted.</p>
+</div>
+
+<!-- Why This Exists -->
+<div style="border:2px solid #003333; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#b3f0f0;">
+  <h2>💡 Why This Exists</h2>
+  <ul>
+    <li>Modern webhook architecture for hospitals</li>
+    <li>Real-time secure communication</li>
+    <li>AI-ready clinical routing</li>
+    <li>Transparent audit mechanisms</li>
+  </ul>
+  <p>Built right from the beginning.</p>
+</div>
+
+<!-- Open Source With Boundaries -->
+<div style="border:2px solid #001111; border-radius:10px; padding:20px; margin-bottom:20px; background-color:#99eeee;">
+  <h2>🌍 Open Source — With Boundaries</h2>
+  <ul>
+    <li>Security through visibility</li>
+    <li>No vendor lock-in</li>
+    <li>Community collaboration</li>
+  </ul>
+  <p><strong>Core production deployments and sensitive components remain private by design.</strong></p>
+</div>
+
+<!-- Contact / Final -->
+<div align="center" style="background-color:#0a0a0a; color:white; padding:30px; border-radius:15px;">
+  <h2>📫 Contact</h2>
+  <p>
+    <strong>GitHub:</strong> [your-username]<br>
+    <strong>LinkedIn:</strong> [your-profile]<br>
+    <strong>Email:</strong> [your-email]
+  </p>
+  <hr width="50%" style="border-color:#00ffff;">
+  <p><strong>Secure by Default. Built for Clinical Trust.</strong></p>
 </div>
