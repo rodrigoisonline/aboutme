@@ -126,8 +126,10 @@
   <hr width="50%" style="border-color:#00ffff;">
   <p><strong>Secure by Default. Built for Clinical Trust.</strong></p> 
 </div>
+ <h1 style="color:#00ffff;"> Thanks to all the people who already contributed!  </h1>
+  <p style="font-size:2.2em;">
 
-::::::::::::::::::::::::::  Thanks to all the people who already contributed!  ::::::::::::::::::::::::::
+  
 
 
 
