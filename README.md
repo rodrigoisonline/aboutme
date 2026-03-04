@@ -126,6 +126,9 @@
   <hr width="50%" style="border-color:#00ffff;">
   <p><strong>Secure by Default. Built for Clinical Trust.</strong></p> 
 </div>
+::::::::::::::::::::::::::                                                     ::::::::::::::::::::::::::
+::::::::::::::::::::::::::  Thanks to all the people who already contributed!  ::::::::::::::::::::::::::
+::::::::::::::::::::::::::                                                     ::::::::::::::::::::::::::
 
 
 
