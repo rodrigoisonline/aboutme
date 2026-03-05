@@ -107,7 +107,7 @@
     <li>No open forums for critical workflows</li>
   </ul>
   <p>
-    <strong>Safety-critical deployments and core logic remain protected—always.</strong>
+    <strong>Safety-critical deployments and core logic remain protected always.</strong>
   </p>
 </div>
 
