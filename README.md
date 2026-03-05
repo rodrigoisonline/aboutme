@@ -9,7 +9,7 @@
 
   <h1 style="color:#00ffff; font-size:3vw; font-family:'Segoe UI',Arial,sans-serif;">Pharmacy System Webhook</h1>
   <p style="font-size:1.5em; font-family:'Inter',Arial,sans-serif; margin-top:22px;">
-    <strong style="color:#00ffff;">High-Sophistication Infrastructure</strong><br>
+    <strong style="color:#00ffff;">High Sophistication Infrastructure</strong><br>
     <span style="color:#eee;">Secure • ISO27000 Auditable • Engineered for reliability</span><br>
     <span style="color:#88f;">Confidence at every layer</span>
   </p>
