@@ -1,15 +1,13 @@
-<!-- DOORMAN SECURE — Premium GitHub Presentation | Pharmacy System Webhook -->
-
 
 <div style="width:100%; text-align:center; margin:0 0 42px 0; padding:0;">
-🔴
+  <svg height="44" width="98%" style="display:block; margin:0 auto;">
     <linearGradient id="sepgrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop stop-color="#00ffff" offset="0%" />
       <stop stop-color="#b5f0ff" offset="70%" />
       <stop stop-color="#00ffff" offset="100%" />
     </linearGradient>
     <rect x="0" y="14" width="100%" height="12" rx="6" ry="6" fill="url(#sepgrad)" />
-    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600">●</text>
+    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600">🔴</text>
   </svg>
 </div>
 
@@ -57,7 +55,7 @@
       <stop stop-color="#00ffff" offset="100%" />
     </linearGradient>
     <rect x="0" y="14" width="100%" height="12" rx="6" ry="6" fill="url(#sepgrad2)" />
-    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600">●</text>
+    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600"></text>
   </svg>
 </div>
 
@@ -69,7 +67,7 @@
   <ul style="font-size:1.06em;">
     <li>Security principles actively influence every workflow</li>
     <li>Reliability moves beyond feature—it's routine</li>
-    <li>Zero-Trust: not a model, but a habit</li>
+    <li>Zero Trust: not a model, but a habit</li>
     <li>Auditability, always present</li>
   </ul>
 </div>
@@ -88,11 +86,11 @@
   </p>
   <table style="width:100%; border-collapse:collapse; text-align:left; font-size:1.08em;">
     <tr style="background-color:#00cccc; color:white;"><th>Feature</th><th>Description</th></tr>
-    <tr><td>Authenticated Exchange</td><td>Pre-approved actors at every operation</td></tr>
+    <tr><td>Authenticated Exchange</td><td>Pre approved actors at every operation</td></tr>
     <tr><td>Resilient Encryption</td><td>AES-256 in storage, TLS 1.3 while in motion</td></tr>
     <tr><td>Replay Attack Resilience</td><td>Interrogation of duplicate and suspect traffic</td></tr>
     <tr><td>Immutable Audit Trail</td><td>Change tracking and retention by default</td></tr>
-    <tr><td>Role-Based Controls</td><td>Permissions adaptive to context and threat</td></tr>
+    <tr><td>Role Based Controls</td><td>Permissions adaptive to context and threat</td></tr>
   </table>
 </div>
 
@@ -107,11 +105,11 @@
   <p><strong>Verified requests, tokens, and actions—by systematic design.</strong></p>
   <ul style="font-size:1.06em;">
     <li>HMAC-SHA256 signatures</li>
-    <li>Short-lived JWT authenticators</li>
+    <li>Short lived JWT authenticators</li>
     <li>AES-256 for any persistent data</li>
     <li>TLS 1.3 for movement privacy</li>
     <li>bcrypt credential hashing</li>
-    <li>Row-level access enforcement</li>
+    <li>Row level access enforcement</li>
     <li>Comprehensive audit trail</li>
   </ul>
   <p style="color:#900;">Silent errors and gaps in logging simply do not occur.</p>
@@ -143,11 +141,11 @@
 <div style="border:2px solid #003333; border-radius:18px; background:#b3f0f0; box-shadow:0 0 6px #00333388; padding:26px; margin-bottom:32px;">
   <h2 style="color:#003333;">💡 Why This Exists</h2>
   <ul style="font-size:1.07em;">
-    <li>Pharmacy-integrated webhook architecture</li>
-    <li>Cloud-first, rapid spin-up capacity</li>
+    <li>Pharmacy integrated webhook architecture</li>
+    <li>Cloud first, rapid spin-up capacity</li>
     <li>Active defense at every perimeter</li>
     <li>Dynamic audit and AI-based routing</li>
-    <li>Validation-centric build logic</li>
+    <li>Validation centric build logic</li>
   </ul>
   <p style="margin-top:11px;">Response, resilience, and surveillance built in from the outset.</p>
 </div>
@@ -162,11 +160,11 @@
   <h2 style="color:#005566;">🌍 Controlled Open Source</h2>
   <ul style="font-size:1.04em;">
     <li>Transparency by engineering vision</li>
-    <li>No vendor lock-in</li>
+    <li>No vendor lock in</li>
     <li>No open governance on sensitive logic</li>
   </ul>
   <p>
-    <strong>Mission-critical deployments always retain selective privacy.</strong>
+    <strong>Mission critical deployments always retain selective privacy.</strong>
   </p>
 </div>
 
