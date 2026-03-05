@@ -81,7 +81,7 @@
   <ul style="font-size:1.05em;">
     <li>✅ HIPAA-aligned architecture</li>
     <li>✅ GDPR-conscious data handling</li>
-    <li>✅ SOC 2 audit-ready posture</li>
+    <li>✅ SOC 2 audit ready posture</li>
     <li>✅ Patient data security as a first-class principle</li>
   </ul>
   <p style="margin-top:11px; color:#014;">Compliance is inherent in every choice.</p>
