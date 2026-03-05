@@ -119,7 +119,7 @@
     <strong>Email:</strong> <a href="mailto:rodrigoisonline@gmail.com" style="color:#00ffff;">rodrigoisonline@gmail.com</a>
   </p>
   <hr width="55%" style="border-color:#00ffff; margin:22px 0;">
-  <p style="font-size:1.09em; color:#0ff;">Built for unerring clarity—trusted wherever detail matters most.</p>
+  <p style="font-size:1.09em; color:#0ff;">Built for unerring clarity trusted wherever detail matters most.</p>
 </div>
 
 <div align="center" style="background:#161616; color:#00ffff; border-radius:22px; padding:42px;">
