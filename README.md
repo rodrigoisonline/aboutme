@@ -8,11 +8,7 @@
     <tr><td style="font-weight:bold;">Location:</td><td>LOS ANGELES</td></tr>
     <tr><td style="font-weight:bold;">Background:</td><td>Full-Stack Security Engineer & Healthcare Architect (banking/clinical exp.)</td></tr>
   </table>
-  <p style="margin-top:14px; font-size:1.07em;">
-    <span style="color:#009999;">Systems designed for uncompromising dependability in all conditions.</span>
-    You’ll discover the difference instantly.
-  </p>
-</div>
+ </div>
 
 
 <div align="center" style="background:#0a0a0a; color:#fff; border-radius:22px; box-shadow:0 0 36px #00fff9,0 0 20px #444; padding:56px 8vw;">
@@ -27,6 +23,10 @@
     <strong style="color:#00ffff;">High Sophistication Infrastructure</strong><br>
     <span style="color:#eee;">Secure • ISO27000 Auditable • Engineered for reliability</span><br>
     <span style="color:#88f;">Confidence at every layer</span>
+  </p>
+   <p style="margin-top:14px; font-size:1.07em;">
+    <span style="color:#009999;">Systems designed for uncompromising dependability in all conditions.</span>
+    You’ll discover the difference instantly.
   </p>
   <img src="https://img.shields.io/badge/STATUS-Production_Grade-00ffff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DOMAIN-Healthcare-00aaaa?style=for-the-badge" />
