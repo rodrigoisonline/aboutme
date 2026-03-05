@@ -2,7 +2,7 @@
 
 
 <div style="width:100%; text-align:center; margin:0 0 42px 0; padding:0;">
-  <svg height="44" width="98%" style="display:block; margin:0 auto; color:"red">
+🔴
     <linearGradient id="sepgrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop stop-color="#00ffff" offset="0%" />
       <stop stop-color="#b5f0ff" offset="70%" />
