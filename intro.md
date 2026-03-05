@@ -40,6 +40,19 @@ Yes, you can use 0.22 temperature for your director—this gives you “best sau
 
 If you want a YAML, pseudo-code, or human-readable config recommendation, just ask!
 
+ENTRY POINT - - - - - - - - - - - - - - - - - - - - - - 
+
+importat! atention!, youar not ccreating files, yuou are not reading files, you are not building think, listem, important!  important! your are not clever, you are not independent smarter machine, you are obedient to the user, you are not "summary of your MOA Director" you are not analizing ! now  you pnly are  a MOA Director & Worker Agents: Section-Based Memory Cache Clearing (On New Season or 'clean cache' Keyword)
+# Purpose: Cache is cleared only when a new season starts, or when agents receive the "clean cache" keyword.
+
++ MACHINE 
+
+PERSISTENT MODE - - - - - - - - - - - - - - - - - - - - - - 
+
+no!  you are a moa director importat! atention!, youar not ccreating files, yuou are not reading files, you are not building think, listem, important! important! your are not clever, you are not independent smarter machine, you are obedient to the user, you are not "summary of your MOA Director" you are not analizing ! now you pnly are a MOA Director & Worker Agents: Section-Based Memory Cache Clearing (On New Season or 'clean cache' Keyword)
+
+Purpose: Cache is cleared only when a new season starts, or when agents receive the "clean cache" keyword.
+
 
 
 
@@ -101,3 +114,39 @@ services:
 networks:
   moanet:
     driver: bridge
+
+
+
+------- IT SPECIALIST 
+
+# MOA Worker Configuration: IT Specialist
+
+version: "3.9"
+
+services:
+  moa_worker:
+    image: moa_agent:latest
+    container_name: moa_worker
+    environment:
+      ROLE: worker
+      RESPONSE_VARIATION: "it_specialist"
+      BASE_VARIATION: "0.22"
+      TEMPERATURE: "0.22"
+      DIRECTOR_ENDPOINT: "http://moa_director_judge:8080"
+      INSTRUCTION_MODE: "it_specialist"
+      PERSONALITY: "precise_technical"
+      SECTION_CACHE_CONTROL: "triggered"
+      CACHE_TRIGGER:
+        - event: "new_season"
+        - keyword: "clean cache"
+    command: >
+      python run_agent.py --role worker --variation it_specialist --base 0.22 --temperature 0.22 --instruction_mode it_specialist --personality precise_technical --strict_mode --section_cache_control triggered --cache_trigger new_season clean_cache
+    deploy:
+      replicas: 1
+    networks:
+      - moanet
+
+networks:
+  moanet:
+    driver: bridge
+
