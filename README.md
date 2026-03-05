@@ -56,7 +56,7 @@
     <tr><td>Authenticated Exchange</td><td>Only pre-approved actors allowed at every transaction</td></tr>
     <tr><td>Best-Practice Encryption</td><td>AES-256 at rest, TLS 1.3 in transit</td></tr>
     <tr><td>Replay-Attack Shielding</td><td>Every input checked for duplication and intent</td></tr>
-    <tr><td>Immutable Audit Trail</td><td>No changes go unseen—comprehensively logged</td></tr>
+    <tr><td>Immutable Audit Trail</td><td>No changes go unseen comprehensively logged</td></tr>
     <tr><td>Role-Based Access</td><td>Dynamic permissions, tuned to user and context</td></tr>
   </table>
 </div>
