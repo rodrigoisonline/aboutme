@@ -66,7 +66,7 @@
   </blockquote>
   <ul style="font-size:1.06em;">
     <li>Security principles actively influence every workflow</li>
-    <li>Reliability moves beyond feature—it's routine</li>
+    <li>Reliability moves beyond feature it's routine</li>
     <li>Zero Trust: not a model, but a habit</li>
     <li>Auditability, always present</li>
   </ul>
