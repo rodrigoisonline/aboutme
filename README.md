@@ -63,7 +63,7 @@
 
 <div style="border:2px solid #007777; border-radius:18px; background:#e0f7f7; box-shadow:0 0 6px #00777788; padding:26px; margin-bottom:32px;">
   <h2 style="color:#007777;">🛡 Security Foundation</h2>
-  <p><strong>Every request, token, and activity verified—by design.</strong></p>
+  <p><strong>Every request, token, and activity verified by design.</strong></p>
   <ul style="font-size:1.06em;">
     <li>HMAC-SHA256 request signatures</li>
     <li>Short-lived JWT authentication</li>
