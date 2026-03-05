@@ -1,5 +1,20 @@
 <!-- DOORMAN SECURE — Premium GitHub Presentation | Pharmacy System Webhook -->
 
+<div style="border:2px solid #00ffff; border-radius:18px; background:#f0f8ff; box-shadow:0 0 10px #00cfc9aa; padding:26px; margin-bottom:32px;">
+  <h2 style="color:#004050;">👤 About the Creator</h2>
+  <table style="width:100%; font-size:1.1em; border-collapse:collapse;">
+    <tr><td style="font-weight:bold;">Name:</td><td>RODRIGO SPARRAPN</td></tr>
+    <tr><td style="font-weight:bold;">Age:</td><td>~34</td></tr>
+    <tr><td style="font-weight:bold;">Location:</td><td>LOS ANGELES</td></tr>
+    <tr><td style="font-weight:bold;">Background:</td><td>Full-Stack Security Engineer & Healthcare Architect (banking/clinical exp.)</td></tr>
+  </table>
+  <p style="margin-top:14px; font-size:1.07em;">
+    <span style="color:#009999;">Systems designed for uncompromising dependability in all conditions.</span>
+    You’ll discover the difference instantly.
+  </p>
+</div>
+
+
 <div align="center" style="background:#0a0a0a; color:#fff; border-radius:22px; box-shadow:0 0 36px #00fff9,0 0 20px #444; padding:56px 8vw;">
 
   <svg width="90" height="90" style="margin-bottom:20px;">
@@ -19,20 +34,6 @@
 </div>
 
 <br>
-
-<div style="border:2px solid #00ffff; border-radius:18px; background:#f0f8ff; box-shadow:0 0 10px #00cfc9aa; padding:26px; margin-bottom:32px;">
-  <h2 style="color:#004050;">👤 About the Creator</h2>
-  <table style="width:100%; font-size:1.1em; border-collapse:collapse;">
-    <tr><td style="font-weight:bold;">Name:</td><td>RODRIGO SPARRAPN</td></tr>
-    <tr><td style="font-weight:bold;">Age:</td><td>~34</td></tr>
-    <tr><td style="font-weight:bold;">Location:</td><td>LOS ANGELES</td></tr>
-    <tr><td style="font-weight:bold;">Background:</td><td>Full-Stack Security Engineer & Healthcare Architect (banking/clinical exp.)</td></tr>
-  </table>
-  <p style="margin-top:14px; font-size:1.07em;">
-    <span style="color:#009999;">Systems designed for uncompromising dependability in all conditions.</span>
-    You’ll discover the difference instantly.
-  </p>
-</div>
 
 <div style="border:2px solid #009999; border-radius:18px; background:#e6f7f7; box-shadow:0 0 8px #00999988; padding:26px; margin-bottom:32px;">
   <h2 style="color:#006666;">🔐 Core Philosophy</h2>
