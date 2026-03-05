@@ -39,7 +39,7 @@
   <blockquote style="font-size:1.15em; border-left:6px solid #00cfc9; padding-left:17px; background:#ddf;">Assume nothing. Validate every assumption. Results guaranteed, not promised.</blockquote>
   <ul style="font-size:1.06em;">
     <li>Security principles that actively reshape every workflow</li>
-    <li>Processes where reliability is more than a feature—it's everywhere</li>
+    <li>Processes where reliability is more than a feature it's everywhere</li>
     <li>Zero-Trust architecture as an embedded discipline</li>
     <li>Persistent audit visibility, never as an afterthought</li>
   </ul>
