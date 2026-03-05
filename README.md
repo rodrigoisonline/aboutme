@@ -73,7 +73,7 @@
     <li>Row-level permissions for every access</li>
     <li>Audit trail: total, unyielding transparency</li>
   </ul>
-  <p style="color:#900;">No silent errors. No overlooked events. Encryption isn't optional—it is everything.</p>
+  <p style="color:#900;">No silent errors. No overlooked events. Encryption isn't optional it is everything.</p>
 </div>
 
 <div style="border:2px solid #005555; border-radius:18px; background:#ccf0f0; box-shadow:0 0 6px #00555588; padding:26px; margin-bottom:32px;">
