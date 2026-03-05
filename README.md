@@ -54,10 +54,10 @@
   <table style="width:100%; border-collapse:collapse; text-align:left; font-size:1.08em;">
     <tr style="background-color:#00cccc; color:white;"><th>Feature</th><th>Description</th></tr>
     <tr><td>Authenticated Exchange</td><td>Only pre-approved actors allowed at every transaction</td></tr>
-    <tr><td>Best-Practice Encryption</td><td>AES-256 at rest, TLS 1.3 in transit</td></tr>
-    <tr><td>Replay-Attack Shielding</td><td>Every input checked for duplication and intent</td></tr>
+    <tr><td>Best Practice Encryption</td><td>AES-256 at rest, TLS 1.3 in transit</td></tr>
+    <tr><td>Replay Attack Shielding</td><td>Every input checked for duplication and intent</td></tr>
     <tr><td>Immutable Audit Trail</td><td>No changes go unseen comprehensively logged</td></tr>
-    <tr><td>Role-Based Access</td><td>Dynamic permissions, tuned to user and context</td></tr>
+    <tr><td>Role Based Access</td><td>Dynamic permissions, tuned to user and context</td></tr>
   </table>
 </div>
 
@@ -66,11 +66,11 @@
   <p><strong>Every request, token, and activity verified by design.</strong></p>
   <ul style="font-size:1.06em;">
     <li>HMAC-SHA256 request signatures</li>
-    <li>Short-lived JWT authentication</li>
+    <li>Short lived JWT authentication</li>
     <li>AES-256 encryption for sensitive records</li>
     <li>TLS 1.3 for end-to-end privacy</li>
     <li>bcrypt password security</li>
-    <li>Row-level permissions for every access</li>
+    <li>Row level permissions for every access</li>
     <li>Audit trail: total, unyielding transparency</li>
   </ul>
   <p style="color:#900;">No silent errors. No overlooked events. Encryption isn't optional it is everything.</p>
@@ -79,8 +79,8 @@
 <div style="border:2px solid #005555; border-radius:18px; background:#ccf0f0; box-shadow:0 0 6px #00555588; padding:26px; margin-bottom:32px;">
   <h2 style="color:#005555;">📜 Compliance Position</h2>
   <ul style="font-size:1.05em;">
-    <li>✅ HIPAA-aligned architecture</li>
-    <li>✅ GDPR-conscious data handling</li>
+    <li>✅ HIPAA aligned architecture</li>
+    <li>✅ GDPR conscious data handling</li>
     <li>✅ SOC 2 audit ready posture</li>
     <li>✅ Patient data security as a first-class principle</li>
   </ul>
@@ -90,11 +90,11 @@
 <div style="border:2px solid #003333; border-radius:18px; background:#b3f0f0; box-shadow:0 0 6px #00333388; padding:26px; margin-bottom:32px;">
   <h2 style="color:#003333;">💡 Why This Exists</h2>
   <ul style="font-size:1.07em;">
-    <li>Pharmacy-ready webhook connections</li>
-    <li>Cloud-hosted, optimized for rapid deployment</li>
+    <li>Pharmacy ready webhook connections</li>
+    <li>Cloud hosted, optimized for rapid deployment</li>
     <li>Active defense at every interface</li>
     <li>Adaptive audit and AI routing</li>
-    <li>Validation-first engineering</li>
+    <li>Validation first engineering</li>
   </ul>
   <p style="margin-top:11px;">Engineered for response, resilience, and control from the start.</p>
 </div>
@@ -103,7 +103,7 @@
   <h2 style="color:#005566;">🌍 Controlled Open Source</h2>
   <ul style="font-size:1.04em;">
     <li>Transparent design, not collaborative spectacle</li>
-    <li>No vendor lock-in</li>
+    <li>No vendor lock in</li>
     <li>No open forums for critical workflows</li>
   </ul>
   <p>
