@@ -7,7 +7,7 @@
       <stop stop-color="#00ffff" offset="100%" />
     </linearGradient>
     <rect x="0" y="14" width="100%" height="12" rx="6" ry="6" fill="url(#sepgrad)" />
-    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600">🔴</text>
+    <text x="50%" y="27" font-size="1.2em" fill="#009999" font-family="Inter,Arial,sans-serif" text-anchor="middle" font-weight="600"></text>
   </svg>
 </div>
 
