@@ -21,31 +21,6 @@
   </table>
 </div>
 
-<div style="width:100%; text-align:center; margin:0 0 40px 0;">
-  <svg height="38" width="100%" style="display:block; margin:0 auto;">
-    <rect x="2%" y="15" width="96%" height="8" rx="4" fill="#00ffff"/>
-  </svg>
-</div>
-
-<div align="center" style="background:#0a0a0a; color:#fff; border-radius:22px; box-shadow:0 0 36px #00fff9,0 0 20px #444; padding:56px 8vw;">
-  <svg width="90" height="90" style="margin-bottom:20px;">
-    <circle cx="45" cy="45" r="43" fill="#00cfc9" stroke="#00ffff" stroke-width="4"/>
-    <text x="46" y="58" font-size="42" text-anchor="middle" fill="#fff" font-family="Segoe UI,Arial,sans-serif">RX</text>
-  </svg>
-  <h1 style="color:#00ffff; font-size:3vw; font-family:'Segoe UI',Arial,sans-serif;">Pharmacy System Webhook</h1>
-  <p style="font-size:1.5em; font-family:'Inter',Arial,sans-serif; margin-top:22px;">
-    <strong style="color:#00ffff;">High Sophistication Infrastructure</strong><br>
-    <span style="color:#eee;">Secure • ISO27000 Auditable • Engineered for reliability</span><br>
-    <span style="color:#88f;">Confidence at every layer</span>
-  </p>
-  <p style="margin-top:16px; font-size:1.08em; color:#009999; font-style:italic;">
-    Disciplined systems for environments where certainty matters most.
-  </p>
-  <img src="https://img.shields.io/badge/STATUS-Production_Grade-00ffff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DOMAIN-Healthcare-00aaaa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-Zero_Trust-009999?style=for-the-badge" />
-</div>
-
 
 <div style="width:100%; text-align:center; margin:36px 0 36px 0;">
   <svg height="44" width="98%" style="display:block; margin:0 auto;">
