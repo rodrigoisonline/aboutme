@@ -14,7 +14,7 @@
 <div style="border:2px solid #00ffff; border-radius:18px; background:#f0f8ff; box-shadow:0 0 10px #00cfc9aa; padding:26px; margin-bottom:40px;">
   <h2 style="color:#004050;">👤 Rodrigo Sparrapn</h2>
   <table style="width:100%; font-size:1.15em; border-collapse:collapse;">
-    <tr><td style="font-weight:bold;">Name:</td><td>RODRIGO SPARRAPN</td></tr>
+    <tr><td style="font-weight:bold;">Name:</td><td>RODRIGO SPARRAPAN</td></tr>
     <tr><td style="font-weight:bold;">Age:</td><td>~34</td></tr>
     <tr><td style="font-weight:bold;">Location:</td><td>LOS ANGELES</td></tr>
     <tr><td style="font-weight:bold;">Background:</td><td>Full-Stack Security Engineer & Healthcare Architect (banking/clinical exp.)</td></tr>
